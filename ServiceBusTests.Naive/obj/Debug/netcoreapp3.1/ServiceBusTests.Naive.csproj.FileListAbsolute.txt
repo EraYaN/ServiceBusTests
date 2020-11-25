@@ -1,0 +1,13 @@
+C:\Users\Erwin\Source\Repos\ServiceBusTests\ServiceBusTests.Naive\obj\Debug\netcoreapp3.1\ServiceBusTests.Naive.csprojAssemblyReference.cache
+C:\Users\Erwin\Source\Repos\ServiceBusTests\ServiceBusTests.Naive\obj\Debug\netcoreapp3.1\ServiceBusTests.Naive.AssemblyInfoInputs.cache
+C:\Users\Erwin\Source\Repos\ServiceBusTests\ServiceBusTests.Naive\obj\Debug\netcoreapp3.1\ServiceBusTests.Naive.AssemblyInfo.cs
+C:\Users\Erwin\Source\Repos\ServiceBusTests\ServiceBusTests.Naive\obj\Debug\netcoreapp3.1\ServiceBusTests.Naive.csproj.CoreCompileInputs.cache
+C:\Users\Erwin\Source\Repos\ServiceBusTests\ServiceBusTests.Naive\bin\Debug\netcoreapp3.1\ServiceBusTests.Naive.exe
+C:\Users\Erwin\Source\Repos\ServiceBusTests\ServiceBusTests.Naive\bin\Debug\netcoreapp3.1\ServiceBusTests.Naive.deps.json
+C:\Users\Erwin\Source\Repos\ServiceBusTests\ServiceBusTests.Naive\bin\Debug\netcoreapp3.1\ServiceBusTests.Naive.runtimeconfig.json
+C:\Users\Erwin\Source\Repos\ServiceBusTests\ServiceBusTests.Naive\bin\Debug\netcoreapp3.1\ServiceBusTests.Naive.runtimeconfig.dev.json
+C:\Users\Erwin\Source\Repos\ServiceBusTests\ServiceBusTests.Naive\bin\Debug\netcoreapp3.1\ServiceBusTests.Naive.dll
+C:\Users\Erwin\Source\Repos\ServiceBusTests\ServiceBusTests.Naive\bin\Debug\netcoreapp3.1\ServiceBusTests.Naive.pdb
+C:\Users\Erwin\Source\Repos\ServiceBusTests\ServiceBusTests.Naive\obj\Debug\netcoreapp3.1\ServiceBusTests.Naive.dll
+C:\Users\Erwin\Source\Repos\ServiceBusTests\ServiceBusTests.Naive\obj\Debug\netcoreapp3.1\ServiceBusTests.Naive.pdb
+C:\Users\Erwin\Source\Repos\ServiceBusTests\ServiceBusTests.Naive\obj\Debug\netcoreapp3.1\ServiceBusTests.Naive.genruntimeconfig.cache
